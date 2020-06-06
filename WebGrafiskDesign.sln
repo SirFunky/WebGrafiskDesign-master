@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGrafiskDesign", "WebGrafiskDesign\WebGrafiskDesign.csproj", "{445A2BD4-11A2-4FBA-A0C5-79FA8EB7ED8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445A2BD4-11A2-4FBA-A0C5-79FA8EB7ED8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445A2BD4-11A2-4FBA-A0C5-79FA8EB7ED8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445A2BD4-11A2-4FBA-A0C5-79FA8EB7ED8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445A2BD4-11A2-4FBA-A0C5-79FA8EB7ED8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98DAE797-DDA5-4DC1-B003-D0F0A24F31A3}
+	EndGlobalSection
+EndGlobal

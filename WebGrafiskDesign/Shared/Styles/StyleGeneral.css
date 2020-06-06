@@ -1,0 +1,9 @@
+﻿
+/*Används enbart för cards i event nu*/
+
+.shadowEffect {
+    box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.84);
+}
+.card img {
+    height: 232px;
+}
